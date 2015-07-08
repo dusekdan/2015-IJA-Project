@@ -1,4 +1,6 @@
 # IJAProject2015
+*University of Technology Brno*
+
 Board game Labyrinth created in Java by cooperating authors [Daniel Dusek](https://github.com/DusekDan) (xdusek21) and [Filip Kalous](https://github.com/Strihtrs) (xkalou03).
 
 To run the game, enter the directory where the directory structure is located in console and run command `ant compile`.
