@@ -1,4 +1,11 @@
-# IJAProject2015
+ _      _____  ___    _     _  ___    _  _   _  _____  _   _
+( )    (  _  )(  _`\ ( )   ( )|  _`\ (_)( ) ( )(_   _)( ) ( )
+| |    | (_) || (_) )`\`\_/'/'| (_) )| || `\| |  | |  | |_| |
+| |  _ |  _  ||  _ <'  `\ /'  | ,  / | || , ` |  | |  |  _  |
+| |_( )| | | || (_) )   | |   | |\ \ | || |`\ |  | |  | | | |
+(____/'(_) (_)(____/'   (_)   (_) (_)(_)(_) (_)  (_)  (_) (_)
+
+
 Board game Labyrinth created in Java by cooperating authors Daniel Dusek (xdusek21) and Filip Kalous (xkalou03)-
 
 To run the game, enter the directory where the directory structure is located in console and run command "ant compile".
