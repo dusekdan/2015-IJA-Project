@@ -23,7 +23,7 @@ After launching the game, you will have several options how to start playing:
 GOOD LUCK & HAVE FUN!
 
 - xdusek21, xkalou03
-
+___
 # FIT VUT, IJA - Java hra Labyrinth
 *Školní projekt do předmětu IJA (Java), Fakulta Informačních Technologií, Vysoké Učení Technické Brno.*
 
