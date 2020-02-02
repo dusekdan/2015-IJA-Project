@@ -7,7 +7,7 @@ To run the game, enter the directory where this project structure is located in 
 
 This action will download images from the student's website and store them to application resources. Note that this will stop working the very moment xdusek21's school account seize to exist. 
 
-Right after that run the game with command `ant run` and you are ready to go.
+Right after that run the game with command `ant run` and you are ready to go. 
 
 After launching the game, you will have several options how to start playing:
 
